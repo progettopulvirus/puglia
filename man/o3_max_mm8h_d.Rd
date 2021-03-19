@@ -3,14 +3,14 @@
 \docType{data}
 \name{o3_max_mm8h_d}
 \alias{o3_max_mm8h_d}
-\title{Tibble con i dati di o3_max_mm8h_d per 7 stazioni della regione PUGLIA}
+\title{Tibble con i dati di o3_max_mm8h_d per 13 stazioni della regione PUGLIA}
 \format{
-Un tibble con 8 colonne e 18801 osservazioni
+Un tibble con 8 colonne e 31852 osservazioni
 }
 \usage{
 o3_max_mm8h_d
 }
 \description{
-Tibble con i dati di o3_max_mm8h_d per 7 stazioni della regione PUGLIA
+Tibble con i dati di o3_max_mm8h_d per 13 stazioni della regione PUGLIA
 }
 \keyword{datasets}
