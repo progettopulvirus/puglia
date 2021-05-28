@@ -1,6 +1,6 @@
-#' Tibble con i dati di o3_max_mm8h_d per 13 stazioni della regione PUGLIA
+#' Tibble con i dati di o3_max_mm8h_d per 7 stazioni della regione PUGLIA
 #'
-#' @format Un tibble con 8 colonne e 31852 osservazioni
+#' @format Un tibble con 8 colonne e 20089 osservazioni
 #'
 #' @usage
 #' o3_max_mm8h_d
